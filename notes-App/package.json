@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Shri-coder413/React-based-projects.git",
+  "homepage": "https://shri-coder413.github.io/React-based-projects/notes-App/",
   "name": "vite",
   "private": true,
   "version": "0.0.0",
@@ -13,9 +13,11 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
     "lucide-react": "^0.554.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
